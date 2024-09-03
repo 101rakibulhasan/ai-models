@@ -1,0 +1,1 @@
+dataset: https://www.kaggle.com/datasets/arnavsharmaas/solar-panel-pv-system-dataset (data.csv)
